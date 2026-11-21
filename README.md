@@ -11,6 +11,9 @@ Es mi primer proyecto: lo subo para mostrar lo que sé y para seguir mejorándol
 ## Tecnologías
 PHP, PostgreSQL, JavaScript, HTML/CSS, Bootstrap (AdminLTE)
 
+## Demostración en Vídeo
+https://github.com/user-attachments/assets/6ed567ba-47e2-4be5-a6ad-d5b04f13e6e6
+
 ## Cómo probarlo
 1. Crear la base de datos `marciv` en PostgreSQL
 2. Copiar `conexion.example.php` como `conexion.php` y poner tus datos
